@@ -1,4 +1,4 @@
-<h1>Undefined </h1>
+<h1>Undefined Team</h1>
 
 <h1>🌱 AgriRS Lab – Website Oficial</h1>
 
